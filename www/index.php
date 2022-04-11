@@ -3,11 +3,11 @@
 <html lang="en" class="setTo100">
 
 <head>
-    <title>Sunday Funday presented by Rampart Casino</title>
+    <title>Sunday Funday presented by Cahuilla Casino Resort</title>
     <?php require_once __DIR__ . '/../../cahuilla-web-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="description" content="Sundays are Fundays throughout April at Rampart Casino. Play fun, free games online to earn drawing entries and more chances to win a share of $40,000." />
+    <meta name="description" content="" />
     <meta name="google-site-verification" content="WmmyIwOo9iywRf-N8Kwq3irT04cMkp5Vrgb9w1URGRY" />
     <base href="//<?php echo $enConfigClient['environment']['site_front_end']; ?>" />
     <link rel="canonical" href="//<?php echo $enConfigClient['environment']['site_front_end']; ?>">
