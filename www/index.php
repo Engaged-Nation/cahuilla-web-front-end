@@ -26,6 +26,17 @@
     <script src="https://ds94t24nq4vzb.cloudfront.net/jquery/3-3-1/jquery-3.3.1.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
     <script src="https://ds94t24nq4vzb.cloudfront.net/bootstrap/3-3-7/bootstrap.min.js"></script>
+    
+    <script type='text/javascript'>
+    window.__lo_site_id = 326224;
+
+	(function() {
+		var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+		wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+	  })();
+	</script>
+    
 </head>
 
 <body>
